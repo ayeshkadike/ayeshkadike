@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ayeshkadike
 - 👀 I’m interested in AI and Computer Vision
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ayeshkadike@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm quite a big Aviation lover & Flight Simmer
 
 <!---
 ayeshkadike/ayeshkadike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
