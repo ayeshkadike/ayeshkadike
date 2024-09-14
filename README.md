@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayeshkadike
-- 👀 I’m interested in AI and Computer Vision
+- 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me: ayeshkadike@gmail.com
 - 😄 Pronouns: he/him
