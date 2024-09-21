@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayeshkadike
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning C/C++
-- 📫 How to reach me: ayeshkadike@gmail.com
+- 📫 How to reach me: amkadike@uwaterloo.ca
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm quite a big Aviation lover & Flight Simmer
 
